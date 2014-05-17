@@ -3,6 +3,6 @@
 
     <string name="app_name">BorderWait</string>
     <string name="title_activity_maps">Map</string>
-    <string name="google_maps_key"></string>
+    <string name="google_maps_key">AIzaSyC6GtgHP-qEvDQ5Rpys1RTgxRBbXKOW_78</string>
 
 </resources>
